@@ -23,3 +23,21 @@ make build
 ```bash
 make run
 ```
+
+### Comandos útiles
+1. Datos almacenados
+```bash
+make postgres-data
+```
+2. Ver logs de base de datos
+```bash
+make postgres-logs
+```
+3. Detener la base de datos
+```bash
+make postgres-stop
+```
+4. Formatear el código fuente
+```bash
+make format
+```
