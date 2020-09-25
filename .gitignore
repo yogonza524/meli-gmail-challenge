@@ -1,0 +1,8 @@
+#credentials.json
+*.mod
+.idea
+go.mod
+go.sum
+token.json
+tmp*
+appBuilt
